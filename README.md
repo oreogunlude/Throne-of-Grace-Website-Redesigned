@@ -25,4 +25,4 @@ Once the app is launched, the user is required to pick a role on the app which t
 
 | Donate | Give |
 | :------------: | :----------: |
-| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned](![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Give.png) |
+| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned]((https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Give.png) |
