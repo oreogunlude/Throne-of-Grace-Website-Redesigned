@@ -10,3 +10,14 @@ https://www.figma.com/file/xWjIVsaZ32JaesUA9XTkgg/TOG-Web-Design?node-id=0%3A1
 | :------------: |
 | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Home.png) |
 
+## Application Features
+
+### Call to Actions
+
+Shopper Helper allows its users to toggle between being a `Shopper` (needing help with shopping) and a `Helper` (helping those in need). 
+Once the app is launched, the user is required to pick a role on the app which then leads to the home page.
+
+| Wactch Online | Give Now |
+| :------------: | :----------: |
+| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Home.png) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Home.png) |
+
