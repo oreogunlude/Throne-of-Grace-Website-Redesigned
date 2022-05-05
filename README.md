@@ -8,5 +8,5 @@ https://www.figma.com/file/xWjIVsaZ32JaesUA9XTkgg/TOG-Web-Design?node-id=0%3A1
 
 | Throne of Grace |
 | :------------: |
-| ![Throne of Grace Website Redesigned](Iphone Prototype Screenshots/Home.png) |
+| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Home.png) |
 
