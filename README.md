@@ -23,6 +23,6 @@ Once the app is launched, the user is required to pick a role on the app which t
 
 ### 5-Click Maximum Donation Box
 
-| Donate | Give |
+| Donate | Give & Change the World |
 | :------------: | :----------: |
 | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Give%20and%20change%20the%20world.png) |
