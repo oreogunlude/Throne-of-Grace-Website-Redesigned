@@ -17,7 +17,7 @@ https://www.figma.com/file/xWjIVsaZ32JaesUA9XTkgg/TOG-Web-Design?node-id=0%3A1
 
 ### Call to Actions
 
-The call to action buttons are located on the header of most pages on the website for easy access. These buttons allow users to easily perform the 2 main reasons why they visit the website. To watch an online service or making a donation to the church. 
+The call to action buttons are located on the header of most pages on the website for easy access. These buttons allow users to easily perform the 2 main reasons why they visit the website. To watch an online service or making a donation to the church. The table below shows the pages for watching an online service and making a donation online after the user has used the call to action buttons to access these pages.
 
 | Wactch Online | Give Now |
 | :------------: | :----------: |
