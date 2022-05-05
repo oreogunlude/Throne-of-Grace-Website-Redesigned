@@ -8,7 +8,7 @@ https://www.figma.com/file/xWjIVsaZ32JaesUA9XTkgg/TOG-Web-Design?node-id=0%3A1
 
 | Home (before) | Home (re-designed) |
 | :------------: | :----------: |
-| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/iPhone%20Before-Version%20Screenshots/Home.pdf) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Home.png) |
+| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/iPhone%20Before-Version%20Screenshots/Home%20Image.jpg) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Home.png) |
 
 ## Application Features
 
