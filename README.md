@@ -1,5 +1,8 @@
 # Throne-of-Grace-Website-Redesign
-Redesigned a church's website by following the steps in the Software Development Life Cycle
+
+I redesigned a church's website by following the steps in the Software Development Life Cycle. 
+
+Throne of Grace is a growing church that requires it's website to be strong tool for an online presence. It's goal is get new members to the church, build a stong brand image, have an excellent user experience, make donations easy, quick & simple for users, increase monthly partnerships and optimize it's website for desktop, tablet and mobile platforms.
 
 Web re-design presentation link: https://youtu.be/MaWB9YFTWvU
 
