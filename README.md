@@ -17,8 +17,7 @@ https://www.figma.com/file/xWjIVsaZ32JaesUA9XTkgg/TOG-Web-Design?node-id=0%3A1
 
 ### Call to Actions
 
-Shopper Helper allows its users to toggle between being a `Shopper` (needing help with shopping) and a `Helper` (helping those in need). 
-Once the app is launched, the user is required to pick a role on the app which then leads to the home page.
+The call to action buttons are located on the header of most pages on the website for easy access. These buttons allow users to easily perform the 2 main reasons why they visit the website. To watch an online service or making a donation to the church. 
 
 | Wactch Online | Give Now |
 | :------------: | :----------: |
