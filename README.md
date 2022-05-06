@@ -29,4 +29,4 @@ My goal for making donations was to ensure that users are able to make donations
 
 | Give (before)  | Give (after) |
 | :------------: | :----------: |
-| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned]https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) |
+| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) |
