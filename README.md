@@ -25,8 +25,8 @@ The call to action buttons are located on the header of most pages on the websit
 
 ### 5-Click Maximum Donation Box
 
-My goal for making donations was to ensure that users are able to make donations in a maximum of 5 clicks ensurining a smooth experience. I used visual media to represent sowing seeds and flowers blosoming due to growth. The previous version of the website did nott give users an easy option to choose where their donations go to so I included a dropdown option. This dropdown option consists of general offerings, tithes, specific minisrties and project funds.
+My goal for making donations was to ensure that users are able to make donations in a maximum of 5 clicks ensurining a smooth experience. I used visual media to represent sowing seeds and flowers blosoming due to growth. The previous version of the website did not give users an easy option to choose where their donations go to so I included a dropdown menu. This dropdown menu consists of general offerings, tithes, specific minisrties and project funds.
 
 | Give (before)  | Give (after) |
 | :------------: | :----------: |
-| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Give%20and%20change%20the%20world.png) |
+| ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Choose%20Amount.png) | ![Throne of Grace Website Redesigned](https://github.com/oreogunlude/Throne-of-Grace-Website-Redesigned/blob/main/Iphone%20Prototype%20Screenshots/Give.png) |
