@@ -7,6 +7,7 @@ Throne of Grace is a growing church that requires it's website to be strong tool
 Web re-design presentation link: https://youtu.be/MaWB9YFTWvU
 
 Prototype link: (Open this link on your desktop to get the full experience)
+
 https://www.figma.com/proto/xWjIVsaZ32JaesUA9XTkgg/TOG-Web-Design?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A285
 
 | Home (before) | Home (re-designed) |
